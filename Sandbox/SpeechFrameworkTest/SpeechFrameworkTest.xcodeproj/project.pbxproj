@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C5647352714795E00714A1D /* AudioRecorder.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AudioRecorder.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C810D3E270C32D400E5EBF5 /* SpeechFrameworkTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeechFrameworkTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C810D41270C32D400E5EBF5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C810D43270C32D400E5EBF5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		2C810D35270C32D400E5EBF5 = {
 			isa = PBXGroup;
 			children = (
+				2C5647352714795E00714A1D /* AudioRecorder.playground */,
 				2C810D40270C32D400E5EBF5 /* SpeechFrameworkTest */,
 				2C810D3F270C32D400E5EBF5 /* Products */,
 			);
@@ -277,6 +279,7 @@
 				DEVELOPMENT_TEAM = 4QG3GC35LA;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSDocumentsFolderUsageDescription = "application needs Documents access";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -305,6 +308,7 @@
 				DEVELOPMENT_TEAM = 4QG3GC35LA;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSDocumentsFolderUsageDescription = "application needs Documents access";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;

@@ -1,3 +1,0 @@
- - [SFSpeechRecognizer를 통해 오디오 파일을 텍스트로 변환](https://leihao0.github.io/ko/Audio-File-to-Text-via-SFSpeechRecognizer/)
- - [Recognizing Speech Locally on an iOS Device Using the Speech Framework](https://www.andyibanez.com/posts/speech-recognition-sfspeechrecognizer/)
- - [Transcribing Speech to Text from Apple](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text)
